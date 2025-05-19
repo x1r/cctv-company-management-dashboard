@@ -1,4 +1,4 @@
-# cctv company management dashboard
+# Многопользовательский веб-интерфейс для управления базой данных компании, предоставляющей услуги коммуникаций и видеонаблюдения.
 
 [![nextjs](https://img.shields.io/badge/next.js-v15.0.0-black?logo=next.js)](https://nextjs.org/)
 [![typescript](https://img.shields.io/badge/typescript-5.4.4-blue?logo=typescript)](https://www.typescriptlang.org/)
